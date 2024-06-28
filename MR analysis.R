@@ -37,7 +37,7 @@ exposure_data_clumped <- exposure_data %>% filter(exposure_data$SNP %in% exposur
 write.csv(exposure_data_clumped, "exposure_data_clumped.csv", row.names = FALSE)
 
 # Read outcome data
-outcome_vcf <- readVcf("epilepsy.vcf.gz")
+outcome_vcf <- readVcf("ADHD.vcf.gz")
 
 # Convert outcome data to TwoSampleMR format
 outcome_data <- gwasvcf_to_TwoSampleMR(outcome_vcf)
