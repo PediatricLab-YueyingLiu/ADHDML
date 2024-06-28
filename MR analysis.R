@@ -61,8 +61,8 @@ outcome_data <- format_data(outcome_data,
                             id_col = "id.exposure")
 
 # Set exposure and outcome IDs
-exposure_data_clumped$id.exposure <- "BMI"
-outcome_data$id.outcome <- "BRCA"
+exposure_data_clumped$id.exposure <- "xxxx"
+outcome_data$id.outcome <- "xxxx"
 
 # Harmonize data
 data <- harmonise_data(
