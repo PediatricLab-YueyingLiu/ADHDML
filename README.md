@@ -1,4 +1,4 @@
-Here is my attempt at rewriting the To graduating peers:
+To graduating peers:
 
 Like petals carried on the spring breeze,
 Our paths crossed for a precious moment.
