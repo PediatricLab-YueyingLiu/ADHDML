@@ -1,1 +1,1 @@
-Code by Xiaoofan Jiang and Ruijin Xie
+Code by Ruijin Xie and Xiaoofan Jiang  
